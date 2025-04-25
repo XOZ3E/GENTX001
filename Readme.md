@@ -29,5 +29,4 @@ pip install -r requirements.txt
 For any questions or issues, please contact:
 - **Name**: XOZ3E
 - **Telegram**: https://t.me/XCZGITHUB
-- **Email*: AFRIDIXCZ@gmail.com
 - **GitHub**: [XOZ3E](https://github.com/XOZ3E)
